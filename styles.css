@@ -1,0 +1,17 @@
+
+:root {
+    --cor-primaria: #FFD700;
+    --cor-fundo: #111111;
+    --cor-texto: #f0f0f0;
+}
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    font-family: 'Georgia', serif;
+}
+h1, h2 {
+    color: var(--cor-primaria);
+}
+a {
+    color: var(--cor-primaria);
+}
